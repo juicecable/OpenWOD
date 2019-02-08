@@ -1,12 +1,12 @@
-<h1>**Server Sleep Safe**</h1><br>
-<p>**Disclaimer: USE RESPONSABLY!**</p><br>
+<h1>Server Sleep Safe</h1><br>
+<p>Disclaimer: USE RESPONSABLY!**</p><br>
 <h3>A simple Python Script designed to seamlessly run your Server in Wake on Demand mode, without noticable latency.</h3><br>
 <p>This script, when running on a laptop, will make your server around 7x more power efficient.  It's not even hard.  Just know the IP address of the server, run the script, and BAM.</p>
 <p>This script, when running on a microcontroller, will make your server around 18x more power efficient.</p></br>
 
-<h3>**Responsable Usage**</h3>
+<h3>Responsable Usage</h3>
 <p>This script should only be used on networks where you are the network administrator.</p>
-<p>By downloading or copying or running this script, you agree that you take full responsibility for any damages or losses that may result from your actions.</p>
+<p>By copying/downloading/modifying/running this program, you agree that you have read and understand the LICENSE, and that you agree with the LICENSE</p>
 
 <h4>How it Works</h4>
 <p>It's not magic!</p>
