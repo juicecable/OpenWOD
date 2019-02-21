@@ -1,4 +1,4 @@
-<h1>Server Sleep Safe</h1><br>
+<h1>Open Wake on Demand</h1><br>
 <p>Disclaimer: USE RESPONSABLY!**</p><br>
 <h3>A simple Python Script designed to seamlessly run your Server in Wake on Demand mode, without noticable latency.</h3><br>
 <p>This script, when running on a laptop, will make your server around 7x more power efficient.  It's not even hard.  Just know the IP address of the server, run the script, and BAM.</p>
