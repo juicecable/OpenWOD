@@ -1,4 +1,4 @@
-"""
+"""Copyright Derek Frombach
 By copying/downloading/modifying/running this program, you agree that you have read and understand the LICENSE, 
 and that you agree with the LICENSE"""
 
